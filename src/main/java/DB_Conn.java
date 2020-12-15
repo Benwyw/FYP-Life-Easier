@@ -4,8 +4,9 @@ public class DB_Conn{
     private static final String url = "jdbc:mysql://benwyw.com:3306/dbksy8stuuy57c";
     private static final String user = "usp9b296je2qn";
     private static final String password = "7%?b4c*9u4@D";
+    public static String noob = "Chris";
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         try{
             Connection connection = DriverManager.getConnection(url, user, password);
             if(connection != null) {
