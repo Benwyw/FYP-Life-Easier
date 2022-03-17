@@ -11,6 +11,6 @@
     FYP 2020/2021 - Smart class scheduling for OUHK - Codenology
   </p>
   <p align="center">
-    Misc tools
+    <!--Misc tools-->
   </p>
 </p>
